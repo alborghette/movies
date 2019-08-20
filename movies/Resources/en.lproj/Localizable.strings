@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  movies
+
+  Created by Murilo Alves Alborghette on 8/19/19.
+  Copyright © 2019 Alborghette. All rights reserved.
+*/
+
+// Movie List
+"movie.list.title" = "Upcoming Movies";
+"movie.list.alert.title" = "Attention";
+"movie.list.alert.button.title" = "Ok";
+"movie.list.genre.request.error" = "Failed to request the movies";
+
+// Movie Detail
+"movie.detail.title" = "Movie";
+
+// Poster View
+"poster.view.close.button.title" = "Close";
